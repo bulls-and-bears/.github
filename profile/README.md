@@ -46,7 +46,7 @@
 - Wireframe
 - ERD
 - API 명세서
-- [Team Rules](../wiki/%F0%9F%93%8C-Rules)
-- [회의록](../wiki/%F0%9F%93%81-%ED%9A%8C%EC%9D%98%EB%A1%9D)
-- [레퍼런스](../wiki/%F0%9F%93%81-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4)
+- [Team Rules](https://github.com/bulls-and-bears/.github/wiki/%F0%9F%93%8C-Rules)
+- [회의록](https://github.com/bulls-and-bears/.github/wiki/%F0%9F%93%81-%ED%9A%8C%EC%9D%98%EB%A1%9D)
+- [레퍼런스](https://github.com/bulls-and-bears/.github/wiki/%F0%9F%93%81-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4)
   

@@ -38,13 +38,13 @@
 
 #### 사용자 요청 흐름도
 
-#### CI/CD
+![image](https://github.com/bulls-and-bears/.github/assets/67499154/ae572bd7-1f70-4121-89b6-f54146ed1993)
 
 ## Docs 🌟
 
-- 일정
-- Wireframe
-- ERD
+- [일정(Jira)](https://jyl.atlassian.net/jira/software/projects/DSP/boards/3/timeline)
+- [Wireframe(Figma)](https://www.figma.com/file/IiSimxVL1tSaNhej2HK5K0/wireframe?type=design&node-id=23%3A2166&mode=design&t=JSR7QlEL9K8yBx7U-1)
+- [ERD](https://www.erdcloud.com/d/rqMrH2fi7wfttFvpv)
 - API 명세서
 - [Team Rules](https://github.com/bulls-and-bears/.github/wiki/%F0%9F%93%8C-Rules)
 - [회의록](https://github.com/bulls-and-bears/.github/wiki/%F0%9F%93%81-%ED%9A%8C%EC%9D%98%EB%A1%9D)

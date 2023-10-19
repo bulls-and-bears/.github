@@ -34,11 +34,11 @@
   </tbody>
 </table>
 
-## 프로젝트 아키텍쳐 🏛
+## 아키텍쳐 🏛
 
-#### 사용자 요청 흐름도
+#### 서비스 아키텍처
 
-![image](https://github.com/bulls-and-bears/.github/assets/67499154/ae572bd7-1f70-4121-89b6-f54146ed1993)
+![architecture](https://github.com/bulls-and-bears/.github/assets/67499154/02474d7b-b68c-44b4-845c-d1eb373a029c)
 
 ## Docs 🌟
 
